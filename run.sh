@@ -1,0 +1,1 @@
+python3 Style_Transfer.py  --content_path="./images/content.jpg" --style_path="./images/style.jpg" --saved_path="./output/output.png"
